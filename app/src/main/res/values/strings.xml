@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">رزرو شو</string>
+    <string name="reserve_sho_under_logo_splash">Reserve Sho</string>
+    <string name="text_copyright">Copyright (c) 2018 reservesho.com, All right reserved</string>
+    <string name="slogan_text">در هر زمان، به راحتی، رزرو شو</string>
+    <string name="text_btn_next">برو بعدی</string>
+    <string name="Introduction_text_1">زمان برات مهمه ؟</string>
+    <string name="introduction_text_2">زمان تو ذخیره کن !!!</string>
+</resources>
